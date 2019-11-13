@@ -1,0 +1,72 @@
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos\PorEquipos\bin\Debug\PorEquipos.exe.config
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos\PorEquipos\bin\Debug\PorEquipos.exe
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos\PorEquipos\bin\Debug\PorEquipos.pdb
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos\PorEquipos\obj\Debug\PorEquipos.csprojResolveAssemblyReference.cache
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos\PorEquipos\obj\Debug\PorEquipos.f_Cros.resources
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos\PorEquipos\obj\Debug\PorEquipos.Properties.Resources.resources
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos\PorEquipos\obj\Debug\PorEquipos.csproj.GenerateResource.Cache
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos\PorEquipos\obj\Debug\PorEquipos.exe
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos\PorEquipos\obj\Debug\PorEquipos.pdb
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\bin\Debug\PorEquipos.exe.config
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.exe
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.pdb
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\bin\Debug\PorEquipos.exe
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\bin\Debug\PorEquipos.pdb
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.csprojResolveAssemblyReference.cache
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.f_Cros.resources
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.Properties.Resources.resources
+F:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.csproj.GenerateResource.Cache
+E:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\bin\Debug\PorEquipos.exe.config
+E:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.exe
+E:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.pdb
+E:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\bin\Debug\PorEquipos.exe
+E:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\bin\Debug\PorEquipos.pdb
+E:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.csprojResolveAssemblyReference.cache
+E:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.f_Cros.resources
+E:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.Properties.Resources.resources
+E:\Curso2017_18\__Examenes\av1_2017_12_14\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.csproj.GenerateResource.Cache
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX\PorEquipos\bin\Debug\PorEquipos.exe.config
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.exe
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.pdb
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX\PorEquipos\bin\Debug\PorEquipos.exe
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX\PorEquipos\bin\Debug\PorEquipos.pdb
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.csprojResolveAssemblyReference.cache
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.f_Cros.resources
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.Properties.Resources.resources
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX\PorEquipos\obj\Debug\PorEquipos.csproj.GenerateResource.Cache
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.exe.config
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.exe
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.pdb
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.exe
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.pdb
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.csprojResolveAssemblyReference.cache
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.f_Cros.resources
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.Properties.Resources.resources
+F:\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.csproj.GenerateResource.Cache
+F:\Segundo\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.exe.config
+F:\Segundo\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.exe
+F:\Segundo\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.pdb
+F:\Segundo\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.exe
+F:\Segundo\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.pdb
+F:\Segundo\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.csprojResolveAssemblyReference.cache
+F:\Segundo\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.f_Cros.resources
+F:\Segundo\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.Properties.Resources.resources
+F:\Segundo\JUNIO SEGUNDO\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.csproj.GenerateResource.Cache
+F:\REPETIR\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.exe.config
+F:\REPETIR\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.exe
+F:\REPETIR\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.pdb
+F:\REPETIR\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.exe
+F:\REPETIR\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.pdb
+F:\REPETIR\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.csprojResolveAssemblyReference.cache
+F:\REPETIR\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.f_Cros.resources
+F:\REPETIR\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.Properties.Resources.resources
+F:\REPETIR\DEIN\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.csproj.GenerateResource.Cache
+F:\REPETIR\DEIN\EXAMENES\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.exe.config
+F:\REPETIR\DEIN\EXAMENES\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.exe
+F:\REPETIR\DEIN\EXAMENES\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.pdb
+F:\REPETIR\DEIN\EXAMENES\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.exe
+F:\REPETIR\DEIN\EXAMENES\PorEquipos_EX_SOLUCION\PorEquipos\bin\Debug\PorEquipos.pdb
+F:\REPETIR\DEIN\EXAMENES\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.csprojResolveAssemblyReference.cache
+F:\REPETIR\DEIN\EXAMENES\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.f_Cros.resources
+F:\REPETIR\DEIN\EXAMENES\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.Properties.Resources.resources
+F:\REPETIR\DEIN\EXAMENES\PorEquipos_EX_SOLUCION\PorEquipos\obj\Debug\PorEquipos.csproj.GenerateResource.Cache
